@@ -1,0 +1,8 @@
+# Ignore deep data directories containing heavy audio datasets
+**/data_directory/data/
+**/data_directory/gen_rttm/
+
+# Keep our results files safe
+!**/final_score.out
+
+
